@@ -7,7 +7,7 @@
 
     document.addEventListener( 'deviceready', onDeviceReady.bind( this ), false );
 
-    var appUrl = 'http://allearthsoft.com/tables/callcenter/';
+    var appUrl = 'http://front-desk.ca/tableblue/';
     var myTimerOff;
     var myIFrame;
     var myMessege;
